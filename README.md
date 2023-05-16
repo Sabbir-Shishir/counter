@@ -12,7 +12,7 @@ To run the application locally, follow these steps:
 
 - Clone the repository :
 ```bash
-  https://github.com/Sabbir-Shishir/counter.git
+  git clone https://github.com/Sabbir-Shishir/counter.git
 ```
 
 - Open the `index.html` file in your web browser.
